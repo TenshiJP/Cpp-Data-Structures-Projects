@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644905992 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\pilas_memoria_estatica\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644437068 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\bus\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
