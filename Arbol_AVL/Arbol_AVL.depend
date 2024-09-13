@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653420468 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\arbol_avl\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646620120 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\prueba\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+

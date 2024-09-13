@@ -1,0 +1,15 @@
+Cereal 3
+Azucar 3
+Leche 2
+Cafe 3
+Libra_de_Frijol 10
+Arroz 8
+Sal 8
+Jalea 2
+Ketchup 2
+Aceite 2
+Consome 2
+Servilletas 1
+Salchichas 1
+Margarina 2
+Agua_Mineral 3

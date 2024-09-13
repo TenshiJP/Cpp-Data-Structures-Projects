@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9254" topLine="64" />
+		</Cursor>
+		<Folding>
+			<Collapse line="23" />
+			<Collapse line="39" />
+			<Collapse line="90" />
+			<Collapse line="130" />
+			<Collapse line="193" />
+			<Collapse line="215" />
+			<Collapse line="316" />
+			<Collapse line="327" />
+			<Collapse line="349" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

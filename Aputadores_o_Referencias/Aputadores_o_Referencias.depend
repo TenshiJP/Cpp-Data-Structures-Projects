@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646105184 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\aputadores_o_referencias\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

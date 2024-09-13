@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653348367 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\avl tree example\main.cpp
+	<iostream>
+	<queue>
+	<unordered_map>
+

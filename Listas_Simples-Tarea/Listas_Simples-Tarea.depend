@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647488536 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre v\programación iii\proyectos c++\listas_simples-tarea\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
